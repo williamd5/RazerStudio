@@ -1,0 +1,24 @@
+{
+  "name": "razerstudio",
+  "version": "1.0.0",
+  "description": "Wild experiment in Node.js with Electron adding more functionality to Polychromatic with OpenRazer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamd5/RazerStudio.git"
+  },
+  "keywords": [
+    "razer",
+    "nodejs",
+    "rgb"
+  ],
+  "author": "William Duncan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamd5/RazerStudio/issues"
+  },
+  "homepage": "https://github.com/williamd5/RazerStudio#readme"
+}
